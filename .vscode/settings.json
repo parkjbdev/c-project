@@ -1,0 +1,10 @@
+{
+    "task.autoDetect": "off",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "${workspaceFolder}/bin",
+            "binaryPath": "${workspaceFolder}/bin/program",
+            "binaryArgs": []
+        }
+    ]
+}
